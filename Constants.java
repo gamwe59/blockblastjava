@@ -38,5 +38,5 @@ public class Constants {
     public static final String SELECT_MESSAGE_COL = "PLEASE ENTER COLUMN. SELECT FIRST SPACE THAT A PIECE APPEARS ON";
     public static final String INVALID_SPACE = "INVALID.";
 
-    public static final int MS = 250;
+    public static final int MS = 175;
 }
