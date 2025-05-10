@@ -1,3 +1,10 @@
+/**
+ * This class holds the constants for the game.
+ * 
+ * @epicgamwe59
+ * @1.0
+ */
+
 public class Constants {
     public static final int STATE_START = 0;
     public static final int STATE_ADDLINE = 1;
